@@ -14,4 +14,4 @@ example of a launch:
 ```
 
 
-the example of command can be found in `output_example.txt`
+the example of the command output can be found in `output_example.txt`
