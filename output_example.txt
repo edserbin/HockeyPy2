@@ -1,0 +1,36 @@
+('hullbo01', ((913, 25), ['Chicago Black Hawks', 'Winnipeg Jets', 'Hartford Whalers', 'Winnipeg Jets']))
+('hullbr01', ((741, 6), ['Detroit Red Wings', 'Dallas Stars', 'St. Louis Blues', 'Phoenix Coyotes', 'Calgary Flames']))
+('lemiema01', ((690, 28), ['Pittsburgh Penguins']))
+('gretzwa01', ((940, 51), ['New York Rangers', 'Los Angeles Kings', 'Edmonton Oilers', 'St. Louis Blues', 'Indianapolis Racers', 'Edmonton Oilers']))
+('yzermst01', ((692, 6), ['Detroit Red Wings']))
+('esposph01', ((717, 17), ['New York Rangers', 'Chicago Black Hawks', 'Boston Bruins']))
+('howego01', ((975, 36), ['Detroit Red Wings', 'New England Whalers', 'Hartford Whalers', 'Houston Aeros']))
+('dionnma01', ((731, 9), ['Detroit Red Wings', 'New York Rangers', 'Los Angeles Kings']))
+('messima01', ((695, 10), ['New York Rangers', 'Edmonton Oilers', 'Cincinnati Stingers', 'Vancouver Canucks', 'Indianapolis Racers']))
++---------+-------------------------------------------------------------------------------------------------------------+----------+-----------+
+|playerID |Teams                                                                                                        |totalGoals|countAwards|
++---------+-------------------------------------------------------------------------------------------------------------+----------+-----------+
+|hullbr01 |[St. Louis Blues, Phoenix Coyotes, Detroit Red Wings, Calgary Flames, Dallas Stars]                          |741       |6          |
+|dionnma01|[Los Angeles Kings, New York Rangers, Detroit Red Wings]                                                     |731       |9          |
+|esposph01|[New York Rangers, Chicago Black Hawks, Boston Bruins]                                                       |717       |17         |
+|messima01|[Indianapolis Racers, Cincinnati Stingers, Vancouver Canucks, New York Rangers, Edmonton Oilers]             |695       |10         |
+|howego01 |[Hartford Whalers, New England Whalers, Houston Aeros, Detroit Red Wings]                                    |975       |36         |
+|hullbo01 |[Winnipeg Jets, Chicago Black Hawks, Winnipeg Jets, Hartford Whalers]                                        |913       |25         |
+|lemiema01|[Pittsburgh Penguins]                                                                                        |690       |28         |
+|gretzwa01|[Indianapolis Racers, Edmonton Oilers, Edmonton Oilers, New York Rangers, St. Louis Blues, Los Angeles Kings]|940       |51         |
+|yzermst01|[Detroit Red Wings]                                                                                          |692       |6          |
++---------+-------------------------------------------------------------------------------------------------------------+----------+-----------+
+
++---------+------------------------------------------------------------------------------------------+----------+------------+
+|playerID |teams                                                                                     |totalGoals|count_awards|
++---------+------------------------------------------------------------------------------------------+----------+------------+
+|hullbr01 |St. Louis Blues,Dallas Stars,Detroit Red Wings,Calgary Flames,Phoenix Coyotes             |741       |6           |
+|dionnma01|Los Angeles Kings,New York Rangers,Detroit Red Wings                                      |731       |9           |
+|esposph01|Chicago Black Hawks,Boston Bruins,New York Rangers                                        |717       |17          |
+|messima01|Indianapolis Racers,Cincinnati Stingers,New York Rangers,Edmonton Oilers,Vancouver Canucks|695       |10          |
+|howego01 |Houston Aeros,New England Whalers,Hartford Whalers,Detroit Red Wings                      |975       |36          |
+|hullbo01 |Chicago Black Hawks,Winnipeg Jets,Hartford Whalers                                        |913       |25          |
+|lemiema01|Pittsburgh Penguins                                                                       |690       |28          |
+|gretzwa01|Indianapolis Racers,St. Louis Blues,Los Angeles Kings,New York Rangers,Edmonton Oilers    |940       |51          |
+|yzermst01|Detroit Red Wings                                                                         |692       |6           |
++---------+------------------------------------------------------------------------------------------+----------+------------+
